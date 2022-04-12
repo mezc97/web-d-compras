@@ -1625,3 +1625,11 @@ button.login-button:hover {
     display: none!important;
   }
 }
+
+
+/**/
+.btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show>.btn-outline-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #306ab2;
+    border-color: #306ab2;
+}
