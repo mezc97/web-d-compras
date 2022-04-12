@@ -1335,7 +1335,10 @@ img.img-ebay {
   background: #C5CAE9;
   border-radius: 50%;
   margin: auto;
-  padding: 0px
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #progressbar li:after {
