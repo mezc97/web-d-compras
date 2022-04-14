@@ -1,4 +1,9 @@
- AOS.init({
+  $(document).ready(function () {
+        setTimeout(function () {
+          $('.elipse').fadeOut(300);
+        }, 3000)
+      });
+AOS.init({
  	duration: 800,
  	easing: 'slide',
  	once: true
