@@ -1633,3 +1633,9 @@ button.login-button:hover {
     background-color: #306ab2!important;
     border-color: #306ab2!important;
 }
+
+
+.site-section.block-3.site-blocks-2.bg-white {
+    position: relative;
+    overflow: hidden;
+}
